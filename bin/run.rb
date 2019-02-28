@@ -5,8 +5,4 @@ require 'sinatra'
 require 'octokit'
 require 'pry'
 require 'awesomeprint'
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
+
